@@ -1,0 +1,55 @@
+body{
+    background-color:#fffff2;
+}
+nav>li>a:focus, .nav>li>a:hover {
+    background-color:#FFB6C1;
+    
+}
+
+.my-navbar{
+    background-color: #FFB6C1;
+    border-color: #FFF0F5;
+}
+
+@media (min-width:768px) {
+    .navbar {
+        border-radius: 0;
+    }
+.jumbotron{
+    background-image: url(../images/abstract.jpeg);
+    background-size: 100% auto;
+    background-position: center;
+    color:#fffdfd;
+}
+h1 {
+    color:#e978baf3;
+}
+
+h2 small {
+       color:#e978baf3;
+       font-style: italic;
+       
+ }
+header{
+    text-align: center;
+    padding: 12px 24px;
+    background-color:#ffffd0;
+    margin-bottom: 24px;
+}
+p{
+    font-size: 16px;
+    padding: 0px 24px;
+    
+}
+p.second{
+    padding: 12px 24px;
+    text-align:center;
+}
+.btn { 
+    color:#C5A5E9;
+}
+ul.icecream{
+    text-align: center;
+    list-style: none;
+    color: #C5A5E9;
+}
